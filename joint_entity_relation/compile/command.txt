@@ -1,0 +1,7 @@
+You need download the development version of the Eigen library (https://bitbucket.org/eigen/eigen) and DyNet: The Dynamic Neural Network Toolkit(https://github.com/clab/dynet) before compling
+
+mkdir build
+cd build
+cmake .. -DEIGEN3_INCLUDE_DIR=eigen
+make
+

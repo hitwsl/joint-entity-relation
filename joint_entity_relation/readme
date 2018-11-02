@@ -1,0 +1,3 @@
+step1: cd compile //compile 
+step2: cd data   //process data
+step3: cd run   //run

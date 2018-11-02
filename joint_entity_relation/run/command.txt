@@ -1,0 +1,3 @@
+step1:  cp ../compile/build/lstmsdparser/lstmparse .
+step2: ./run.sh   // Train model
+step3: ./test.sh  // Test model

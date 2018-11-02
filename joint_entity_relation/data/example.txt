@@ -1,0 +1,54 @@
+token thousand NNS 5 nsubj o
+token of IN 0 prep o
+token fresh JJ 4 amod o
+token US NNP 4 nn s-GPE
+token troops NNS 1 pobj s-PER
+token head VBD -1 ROOT o
+token for IN 5 prep o
+token Iraq NNP 6 pobj s-GPE
+token Thursday NNP 5 tmod o
+token as IN 21 mark o
+token British NNP 14 nn s-GPE
+token Prime NNP 14 nn o
+token Minister NNP 14 nn s-PER
+token Tony NNP 14 nn b-PER
+token Blair NNP 21 nsubj e-PER
+token and CC 14 cc o
+token US NNP 20 nn s-GPE
+token President NNP 20 nn s-PER
+token George NNP 20 nn b-PER
+token W-PERIOD- NNP 20 nn m-PER
+token Bush NNP 14 conj e-PER
+token discuss VBD 5 advcl o
+token the DT 23 det o
+token effort NN 21 dobj o
+token to TO 25 aux o
+token oust VB 23 vmod o
+token Saddam NNP 27 nn b-PER
+token Hussein NNP 25 dobj e-PER
+token -COMMA- , 27 punct o
+token which WDT 35 dobj o
+token some DT 34 det o
+token senior JJ 34 amod o
+token US NNP 34 nn s-GPE
+token military JJ 34 amod s-ORG
+token official NNS 35 nsubj s-PER
+token warn VBP 27 rcmod o
+token could MD 37 aux o
+token last VB 35 ccomp o
+token month NNS 37 dobj o
+token -PERIOD- . 5 punct o
+rel 3 4 1 ORG-AFF
+rel 4 7 1 PHYS
+rel 7 3 1 PHYS
+rel 10 12 -1 ORG-AFF
+rel 16 17 -1 ORG-AFF
+rel 32 33 -1 PART-WHOLE
+rel 33 34 -1 ORG-AFF
+
+token thousand NNS 5 nsubj o
+token of IN 0 prep o
+token fresh JJ 4 amod o
+token US NNP 4 nn s-GPE
+token troops NNS 1 pobj s-PER
+token head VBD -1 ROOT o

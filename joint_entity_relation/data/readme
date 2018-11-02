@@ -1,0 +1,7 @@
+example.txt: the fourth column and fifth column are parser information (not used), just ignore it.
+
+preprocess example.txt: python precess.py example.txt > train.parser 
+                        python precess.py example.txt > dev.parser 
+                        python precess.py example.txt > test.parser 
+
+
